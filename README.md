@@ -27,8 +27,8 @@ uv sync
 Extract palettes from every photo in a folder. Writes `<name>.palette.png` next to each image and a `palettes.json` index.
 
 ```
-python run.py PATH/TO/PHOTOS
-python run.py PATH/TO/PHOTOS --colors 8
+uv run python run.py PATH/TO/PHOTOS
+uv run python run.py PATH/TO/PHOTOS --colors 8
 ```
 
 ## files
