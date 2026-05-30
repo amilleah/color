@@ -2,8 +2,8 @@
 
 This is a set of scripts to extract color palettes + color weights to images using mena-shift clustering. Here are some references to get started if you're unfamiliar with the method:
 
-[GneissName on YouTube](https://www.youtube.com/watch?v%3DHuW9qJbL0xM&)
-[Mean Shift clustering](https://spin.atomicobject.com/mean-shift-clustering/)
+[GneissName on YouTube](https://www.youtube.com/watch?v%3DHuW9qJbL0xM&) \
+[Mean Shift clustering](https://spin.atomicobject.com/mean-shift-clustering/) \
 [CIELAB color space (Wikipedia)](https://en.wikipedia.org/wiki/CIELAB_color_space)
 
 ## examples
