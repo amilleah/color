@@ -10,6 +10,9 @@ This is a set of scripts to extract color palettes + color weights to images usi
 
 I use an adapted form of this script to index the Princeton Art Museum's (free) online archive: [PUAM API on GitHub](https://github.com/Princeton-University-Art-Museum/puam-api-docs)
 
+You can find this project on [color.amilleah.com](https://color.amilleah.com)
+
+or on Are.na: [amilleah/hexcode](https://are.na/amilleah/hexcode)
 
 ## install uv
 
